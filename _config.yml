@@ -30,9 +30,6 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://meetagit.github.io/
-    external: true
   - title: 交流群
     url: https://jq.qq.com/?_wv=1027&k=5QWSSfE
     external: true

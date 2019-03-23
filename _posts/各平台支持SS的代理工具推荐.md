@@ -1,0 +1,120 @@
+## 各平台支持SS的代理工具推荐
+  
+
+>* Meeta_Li
+  
+#### [TG频道](https://t.me/meetaclub)
+
+* * *
+### *iOS* ：
+
+### 1. Shadowrocket (俗称：*小火箭*）
+##### 特点： 便宜 ，支持代理类型多 ，轻度用户首推
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1cz8nipdmj30gf0zkgmb.jpg)
+
+#### **[Appstore下载](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8&uo=4&at=1001lsTF&ct=iOS_detail_share_932747118)**
+
+
+
+
+
+###  2. quantumult
+##### 特点：性价比高 ， 支持代理类型多 ，支持策略组分流，订阅规则去广告等 ，  满足绝大部分用户
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1cz9wgyaoj30v90xuq4x.jpg)
+
+
+#### **[Appstore下载](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8&uo=4&at=1001lsTF&ct=iOS_detail_share_1252015438)**
+
+
+
+### 3. Surge
+##### 特点: 价格相对来说rich， 支持配置文件托管，策略组分流，规则去广告，抓包网络调试  ，*UI好看*
+
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1czaitumhj30v90xun05.jpg)
+
+#### **[Appstore下载](https://itunes.apple.com/us/app/surge-3/id1442620678?mt=8&uo=4&at=1001lsTF&ct=iOS_detail_share_1442620678)**
+
+* * *
+
+
+ ### *安卓* ：
+ 
+ ### 1. Surfboard
+ ##### 类似surge
+ 
+####  **[Surfboard官网](https://manual.getsurfboard.com/cn/introduction)**
+ 
+ 
+ ####  2.ClashA（Clash 的 Android 图形界面）
+ 
+* 使用 HTTP/HTTPS and SOCKS
+* 和 Surge 相似的配置
+* 支持基于地域的规则
+* 支持 Vmess/Shadowsocks/Socks5 服务端协议
+* 支持基于 Netfilter TCP 流量重定向
+
+
+#### **[下载地址](https://github.com/ccg2018/ClashA/releases)**
+
+
+* * *
+
+ 
+ 
+ ### *windows* ：
+ 
+ #### Clash for Windows
+ ![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1czbhwucnj30xc0kr3zh.jpg)
+ 
+ ##### Clash 的 windows 图形界面
+           
+* 显示核心信息
+* 切换配置文件
+* 切换策略模式
+* 切换代理测试
+* 延迟保存日志
+
+#### **[点击下载CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases)**
+
+* * *
+
+ 
+
+### *macOS*
+ 
+ 
+ #### 1. Surge (macOS上“绝佳”代理软件）
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1czf95chvj31lw138tpq.jpg)
+ 
+ 
+
+#### **[Surge官网](https://nssurge.com/)**
+
+#### 2. ClashX (Clash 的 macOS 图形界面客户端)
+ ![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1czgru19rj32xz1ciwnh.jpg)
+ 
+  
+* 使用 HTTP/HTTPS and SOCKS
+* 和 Surge 相似的配置
+* 支持基于地域的规则
+* 支持 Vmess/Shadowsocks/Socks5 服务端协议
+* 支持基于 Netfilter TCP 流量重定向
+ 
+ 
+ 
+
+* * *
+
+
+ 
+ ### *路由器/软路由*
+ #### 1. KoolClash
+ ###### （KoolClash 是 Clash 在 Koolshare OpenWrt/LEDE 上的客户端）
+
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1czl4f2g1j32yo1cvn6r.jpg)
+
+#### **[安装包下载](https://github.com/SukkaW/Koolshare-Clash/releases)**
+
+ #### 2. 科学上网插件
+ 
+![](https://ws1.sinaimg.cn/large/0076dY5Wly1g1d0dlx1p8j30e1060q4g.jpg)
